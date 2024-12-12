@@ -1,0 +1,33 @@
+.card-body{
+    margin-top: 10%;
+    background-color: rgb(255, 255, 0);
+
+}
+.btn{
+    background-color: black;
+    transition: 1s;
+    color: rgb(255, 255, 0);
+}
+.btn:hover{
+    transition: 1s;
+    background-color: rgba(255, 255, 0, 0.645);
+    color: black;
+}
+.card-header{
+    background-color: black;
+    color: rgb(255, 255, 0);
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mb-3{
+    text-align: center;
+}
+body{
+    background: rgb(0, 0, 0);
+
+}
+.container{
+    height: 100vh;
+    
+}
