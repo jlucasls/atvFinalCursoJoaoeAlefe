@@ -5,12 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styleLogin.css">
+    
 </head>
 <body>
+<div class="lines">
+  <div class="line"></div>
+  <div class="line"></div>
+  <div class="line"></div>
+</div>
+
+
     <div class="container">
+        
         <div class="row justify-content-center">
+            
             <div class="col-md-4">
+                
                 <div class="card mt-5">
+                    
                     <div class="card-header text-center">
                         <h4>Login</h4>
                     </div>

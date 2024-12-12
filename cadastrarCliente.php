@@ -41,6 +41,7 @@
     <title>Cadastro de Clientes</title>
     <!-- Inclusão do CSS do Bootstrap para estilizar o formulário -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styleCadastro.css">
 </head>
 <body>
     <div class="container">
